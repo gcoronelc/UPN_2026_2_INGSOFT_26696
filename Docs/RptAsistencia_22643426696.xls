@@ -1,0 +1,47 @@
+<div>
+	<table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+		<tr>
+			<th scope="col">C&#243;digo</th><th scope="col">Nombres</th><th scope="col">Carrera</th><th scope="col">Ciclo</th><th scope="col">N&#250;mero Vez</th><th scope="col">Nro Faltas</th><th scope="col">Estado</th><th scope="col">Fecha Inhabilitaci&#243;n</th><th scope="col">Fecha Retiro</th>
+		</tr><tr>
+			<td>N00488538</td><td>ALAVEDRA FLORES, FABIANA NICOLE</td><td>Ing. de Software</td><td>4</td><td>1</td><td>0</td><td>&#160;</td><td>&#160;</td><td>&#160;</td>
+		</tr><tr>
+			<td>N00297347</td><td>ANGULO GARCIA, ALYSSON JENNIFER</td><td>Ing. de Software</td><td>4</td><td>1</td><td>0</td><td>&#160;</td><td>&#160;</td><td>&#160;</td>
+		</tr><tr>
+			<td>N00493019</td><td>ASENCIOS SILVA, BENAZIR ALEJANDRA</td><td>Ing. de Software</td><td>4</td><td>1</td><td>0</td><td>&#160;</td><td>&#160;</td><td>&#160;</td>
+		</tr><tr>
+			<td>N00477908</td><td>BERNAL VALER, GONZALO NICOLAS</td><td>Ing. de Software</td><td>4</td><td>1</td><td>0</td><td>&#160;</td><td>&#160;</td><td>&#160;</td>
+		</tr><tr>
+			<td>N00551515</td><td>CAJACHAGUA LOARTE, JONATHAN KEVIN</td><td>Ing. de Software</td><td>4</td><td>1</td><td>0</td><td>&#160;</td><td>&#160;</td><td>&#160;</td>
+		</tr><tr>
+			<td>N00481978</td><td>DE LA ROSA JACINTO, ISRAEL</td><td>Ing. de Software</td><td>4</td><td>1</td><td>0</td><td>&#160;</td><td>&#160;</td><td>&#160;</td>
+		</tr><tr>
+			<td>N00493874</td><td>FLORIAN NU&#209;EZ, GABRIEL ALEJANDRO</td><td>Ing. de Software</td><td>4</td><td>1</td><td>0</td><td>&#160;</td><td>&#160;</td><td>&#160;</td>
+		</tr><tr>
+			<td>N00543127</td><td>GUTIERREZ RODRIGUEZ, JUAN JOSE</td><td>Ing. de Software</td><td>4</td><td>1</td><td>0</td><td>&#160;</td><td>&#160;</td><td>&#160;</td>
+		</tr><tr>
+			<td>N00467924</td><td>HERNANDEZ CHUNGA, LUIS FERNANDO</td><td>Ing. de Software</td><td>4</td><td>1</td><td>0</td><td>&#160;</td><td>&#160;</td><td>&#160;</td>
+		</tr><tr>
+			<td>N00430532</td><td>HERNANDEZ GUIMAC, TATIANA ENITT</td><td>Ing. de Software</td><td>4</td><td>1</td><td>0</td><td>&#160;</td><td>&#160;</td><td>&#160;</td>
+		</tr><tr>
+			<td>N00572178</td><td>LLANOS PEDRAZA, JUAN DAVID</td><td>Ing. de Software</td><td>4</td><td>1</td><td>0</td><td>&#160;</td><td>&#160;</td><td>&#160;</td>
+		</tr><tr>
+			<td>N00488347</td><td>PALOMINO GALVEZ, SAITH BAIRON</td><td>Ing. de Software</td><td>4</td><td>1</td><td>0</td><td>&#160;</td><td>&#160;</td><td>&#160;</td>
+		</tr><tr>
+			<td>N00477432</td><td>RIOFRIO MORENO, SERGIO NICOLAS</td><td>Ing. de Software</td><td>4</td><td>1</td><td>0</td><td>&#160;</td><td>&#160;</td><td>&#160;</td>
+		</tr><tr>
+			<td>N00483390</td><td>RIOS MORENO, ANDERSON SEBASTIAN</td><td>Ing. de Software</td><td>4</td><td>1</td><td>2</td><td>&#160;</td><td>&#160;</td><td>&#160;</td>
+		</tr><tr>
+			<td>N00482613</td><td>SALDA&#209;A MONZON, PAOLO ALEXANDER</td><td>Ing. de Software</td><td>4</td><td>1</td><td>0</td><td>&#160;</td><td>&#160;</td><td>&#160;</td>
+		</tr><tr>
+			<td>N00476108</td><td>SUAREZ JESUS, JAIRO GIUSEPPI</td><td>Ing. de Software</td><td>4</td><td>1</td><td>0</td><td>&#160;</td><td>&#160;</td><td>&#160;</td>
+		</tr><tr>
+			<td>N00572349</td><td>TORRES TIMAN&#193;, ESTEFANY</td><td>Ing. de Software</td><td>4</td><td>1</td><td>0</td><td>&#160;</td><td>&#160;</td><td>&#160;</td>
+		</tr><tr>
+			<td>N00480927</td><td>VALENTIN DIPAS, YANNIS YIU</td><td>Ing. de Software</td><td>4</td><td>1</td><td>0</td><td>&#160;</td><td>&#160;</td><td>&#160;</td>
+		</tr><tr>
+			<td>N00479570</td><td>VALERIANO CUZCANO, JEAN PIERRE JOSE</td><td>Ing. de Software</td><td>4</td><td>1</td><td>0</td><td>&#160;</td><td>&#160;</td><td>&#160;</td>
+		</tr><tr>
+			<td>N00484495</td><td>VILCHEZ PISCO, DANIEL ENRRIQUE</td><td>Ing. de Software</td><td>4</td><td>1</td><td>2</td><td>&#160;</td><td>&#160;</td><td>&#160;</td>
+		</tr>
+	</table>
+</div>
