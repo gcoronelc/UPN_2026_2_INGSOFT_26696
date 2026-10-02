@@ -1,0 +1,25 @@
+RF: Expresa que debe hacer el sistema.
+CU: Expresa como interactúa el usuario con el sistema.
+HU: Expresa que necesita el usuario y para que lo necesita.
+
+Semana 08:
+-------------------------------------
+Grupo 1: Reto 1 + Ejercicio 1
+Grupo 2: Reto 2 + Ejercicio 2
+
+Semana 09:
+-------------------------------------
+Grupo 3: Reto 3
+Grupo 4: Reto 4
+
+
+
+
+
+
+
+
+
+
+
+
